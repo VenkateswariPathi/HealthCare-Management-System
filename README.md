@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/github/languages/count/gowthamrajk/HealthCareManagement)   ![](https://img.shields.io/github/languages/top/gowthamrajk/HealthCareManagement)
 
-### For more such developments, visit my [Portfolio](https://gowthamrajk.github.io)
+
 
 ##  Features 💬
 
@@ -320,6 +320,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # Show some ❤️ by starring this repository !!!
   
 </div>
+
 
 
 
